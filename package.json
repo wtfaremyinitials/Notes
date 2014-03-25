@@ -1,0 +1,16 @@
+{
+    "name": "Notes",
+    "description": "Notes from my highschool classes",
+    "version": "0.0.0",
+    "author": "Will (wtfaremyinitials) Franzen",
+
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/wtfaremyinitials/Notes.git"
+    },
+
+    "devDependencies": {
+        "grunt": "~0.4.0",
+        "roaster": "*"
+    }
+}
